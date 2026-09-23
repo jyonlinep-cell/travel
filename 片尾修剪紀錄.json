@@ -1,0 +1,11 @@
+{
+  "original": "大合照 (1).mp4",
+  "original_duration_seconds": 238.083333,
+  "trim_end_seconds": 157.291666667,
+  "duration_seconds": 157.291667,
+  "removed_tail_seconds": 80.79166633300002,
+  "action": "剪除末段黑畫面與對應音訊",
+  "video_path": "assets/update-20260919/movie-17.mp4",
+  "base_website_version": 5,
+  "video_frames": 3775
+}

@@ -1,0 +1,114 @@
+{
+  "works": 115,
+  "videos": 71,
+  "q": 9,
+  "missing": [],
+  "errors": [],
+  "viewport": [
+    {
+      "width": 768,
+      "scrollWidth": 768
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390
+    },
+    {
+      "width": 320,
+      "scrollWidth": 320
+    }
+  ],
+  "playback": [
+    {
+      "title": "中華功夫大師Ⅵ：萬機歸一",
+      "duration": 75.812993,
+      "time": 0.453343,
+      "width": 720,
+      "height": 400,
+      "error": null
+    },
+    {
+      "title": "AI 打開新的世界｜MV",
+      "duration": 287.445,
+      "time": 0.47422,
+      "width": 720,
+      "height": 406,
+      "error": null
+    },
+    {
+      "title": "大合照｜原版",
+      "duration": 5.061995,
+      "time": 0.471226,
+      "width": 720,
+      "height": 540,
+      "error": null
+    },
+    {
+      "title": "星武者：古武穿越宇宙",
+      "duration": 15.039002,
+      "time": 0.443796,
+      "width": 960,
+      "height": 960,
+      "error": null
+    }
+  ],
+  "checks": [
+    "搜尋與媒體篩選",
+    "功夫與Q圖分類",
+    "分頁載入",
+    "片長排序",
+    "搜尋空狀態",
+    "影片實際播放",
+    "Esc關閉與Q圖切換",
+    "手機選單",
+    "320/390/768像素無橫向溢出",
+    "功夫六集切換與關閉焦點還原",
+    "財富故事篩選"
+  ],
+  "merge_base_version": 4,
+  "series_episodes": 6,
+  "media_note": "最終展示版完成5支影片播放抽測，合併後重驗分類、手機與六集切換。",
+  "black_tail_trim": {
+    "original": "大合照 (1).mp4",
+    "original_duration_seconds": 238.083333,
+    "trim_end_seconds": 157.291666667,
+    "duration_seconds": 157.291667,
+    "removed_tail_seconds": 80.79166633300002,
+    "action": "剪除末段黑畫面與對應音訊",
+    "video_path": "assets/update-20260919/movie-17.mp4",
+    "base_website_version": 5,
+    "video_frames": 3775
+  },
+  "unique_video_files": 69,
+  "food_clip_fix": {
+    "base_version": 6,
+    "changes": [
+      {
+        "title": "牛肉麵街",
+        "video": "assets/food-clips/beef-noodle-shop.mp4",
+        "duration": 4.096009,
+        "storyboard": "assets/images/牛肉麵街_封面.png",
+        "complete_film": false
+      },
+      {
+        "title": "台式豆花暖心版",
+        "video": "assets/update-20260919/movie-13.mp4",
+        "duration": 5.108005,
+        "storyboard": "assets/images/台式豆花暖心分鏡(2).webp",
+        "complete_film": false
+      },
+      {
+        "title": "一分鐘豆花廣告｜12 格分鏡",
+        "video": "assets/update-20260919/movie-13.mp4",
+        "duration": 5.108005,
+        "storyboard": "assets/new-20260919/image-16.webp",
+        "complete_film": false
+      }
+    ],
+    "works": 115,
+    "video_cards": 71,
+    "unique_video_files": 69,
+    "full_length_films_found": false,
+    "notes": "目前補上已找到的4秒及5秒影片片段，完整成片尚待補入。"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "updated": "2026-09-19",
+  "video_count": 19,
+  "image_count": 39,
+  "duplicate_alias": {
+    "00000(1).png": "00000.png",
+    "01(1).png": "01.png",
+    "01_4K(1).png": "01_4K.png",
+    "01_4K純畫面(1).png": "01_4K純畫面.png",
+    "01_地下街城市漫遊_真人版_4K(1).png": "01_地下街城市漫遊_真人版_4K.png",
+    "01_讚(1).png": "01_讚.png",
+    "01_讚啦(1).png": "01_讚啦.png",
+    "01_開場_為什麼要挑對投影機_4K(1).png": "01_開場_為什麼要挑對投影機_4K.png",
+    "02(1).png": "02.png",
+    "02_4K(1).png": "02_4K.png",
+    "02_4K純畫面(1).png": "02_4K純畫面.png",
+    "02_最後一張訂單_4K(1).png": "02_最後一張訂單_4K.png",
+    "02_無心之城_4K(1).png": "02_無心之城_4K.png",
+    "02_第一步_使用需求_4K(1).png": "02_第一步_使用需求_4K.png",
+    "1 分鐘豆花廣告的 12 格分鏡圖(3).png": "1 分鐘豆花廣告的 12 格分鏡圖(2).png",
+    "1 分鐘豆花廣告的 12 格分鏡圖(4).png": "1 分鐘豆花廣告的 12 格分鏡圖(2).png",
+    "1(1).png": "1.png",
+    "1(2).png": "1.png",
+    "1ed893f5-5573-4f80-81ed-bb9e6e4a925e(1).png": "1ed893f5-5573-4f80-81ed-bb9e6e4a925e.png",
+    "1ed893f5-5573-4f80-81ed-bb9e6e4a925e(2).png": "1ed893f5-5573-4f80-81ed-bb9e6e4a925e.png",
+    "《世人愛神》(1).png": "《世人愛神》.png",
+    "《世人愛神》(2).png": "《世人愛神》.png",
+    "01_無心之城_4K(1).png": "01_無心之城_4K.png",
+    "01_錢包見底_4K(1).png": "01_錢包見底_4K.png",
+    "01_最後一張訂單_4K(1).png": "01_最後一張訂單_4K.png",
+    "02(2).png": "02.png",
+    "00000(2).png": "00000.png",
+    "01_一聲水響_4K(1).png": "01_一聲水響_4K.png",
+    "《世人愛神》(3).png": "《世人愛神》.png",
+    "1ed893f5-5573-4f80-81ed-bb9e6e4a925e(3).png": "1ed893f5-5573-4f80-81ed-bb9e6e4a925e.png",
+    "1 分鐘豆花廣告的 12 格分鏡圖(5).png": "1 分鐘豆花廣告的 12 格分鏡圖(2).png",
+    "01_讚(2).png": "01_讚.png",
+    "01_開場_為什麼要挑對投影機_4K(2).png": "01_開場_為什麼要挑對投影機_4K.png",
+    "01_4K(2).png": "01_4K.png",
+    "02_4K(2).png": "02_4K.png",
+    "01_4K純畫面(2).png": "01_4K純畫面.png",
+    "01(2).png": "01.png",
+    "01_地下街城市漫遊_真人版_4K(2).png": "01_地下街城市漫遊_真人版_4K.png",
+    "01_讚啦(2).png": "01_讚啦.png",
+    "1(3).png": "1.png",
+    "02_4K純畫面(2).png": "02_4K純畫面.png",
+    "01_分鏡_4K(1).png": "01_分鏡_4K.png"
+  },
+  "files": [
+    {
+      "original": "9格星武者：古武穿越宇宙.mp4",
+      "path": "assets/new-20260919/video-01.mp4",
+      "sha256": "9e341668954c9debddfcb5253865c5efa4d1c60e40a6093fe1b9ceea378de2f0"
+    },
+    {
+      "original": "010 音符化銀河.mp4",
+      "path": "assets/new-20260919/video-02.mp4",
+      "sha256": "54eb8d542a3958a5b51e87a66875c719c2defd6d377f15cd14cfbdebd92a5dd7"
+    },
+    {
+      "original": "011 草圖變城市.mp4",
+      "path": "assets/new-20260919/video-03.mp4",
+      "sha256": "fd119f7a4843fe4fbb7a55de675d1dd6075fb39cc7cf630a088347b8b75b118c"
+    },
+    {
+      "original": "012 森林誕生.mp4",
+      "path": "assets/new-20260919/video-04.mp4",
+      "sha256": "e6f9c0db6ccd90103c1c2e84fcd1c6314853ef98a51764fab8deecdfa61e16b5"
+    },
+    {
+      "original": "013 書中人物.mp4",
+      "path": "assets/new-20260919/video-05.mp4",
+      "sha256": "704588b37f9855bfef03affeff96e0e56cf3cffe538f718be5eee301488373a0"
+    },
+    {
+      "original": "013 書中人物-1.mp4",
+      "path": "assets/new-20260919/video-06.mp4",
+      "sha256": "7a039c90fcd69f87b63dfd5b3ae4fbd6a8a7e5317af3d8cdf15f45b9428e9632"
+    },
+    {
+      "original": "014 未來城市.mp4",
+      "path": "assets/new-20260919/video-07.mp4",
+      "sha256": "460aef7dc06a089fcc9bb2ec663883ab9ac9d72cae32b40f2df6dda4c09550aa"
+    },
+    {
+      "original": "10_健行AI全體比讚.mp4",
+      "path": "assets/new-20260919/video-08.mp4",
+      "sha256": "a7a2554cad0b8bb7caf1d2afdda0b1ba976067bd11c0c6eb6a240581805f4aab"
+    },
+    {
+      "original": "11_健行AI團結點頭.mp4",
+      "path": "assets/new-20260919/video-09.mp4",
+      "sha256": "4007098acb61d5438d02aac02558edd5fa8116c742184130ae53cf6d207913ce"
+    },
+    {
+      "original": "12_健行AI一起加油.mp4",
+      "path": "assets/new-20260919/video-10.mp4",
+      "sha256": "53bac0e5eb8a9498f1dc059b2f4fb5ba740d9255ab7c884c644f6a3f51863169"
+    },
+    {
+      "original": "13_健行AI團體互動.mp4",
+      "path": "assets/new-20260919/video-10.mp4",
+      "sha256": "53bac0e5eb8a9498f1dc059b2f4fb5ba740d9255ab7c884c644f6a3f51863169"
+    },
+    {
+      "original": "14_健行AI全體V手勢定格.mp4",
+      "path": "assets/new-20260919/video-12.mp4",
+      "sha256": "2286272e6ec71b8fc1a815360ea409f85ea37b52489920e8480e14471ee2f671"
+    },
+    {
+      "original": "9.mp4",
+      "path": "assets/new-20260919/video-13.mp4",
+      "sha256": "06a47b2324f2bddad82dec32e2ef66d3fb3ee613792bd8fc8919bf02108151d9"
+    },
+    {
+      "original": "9-2.mp4",
+      "path": "assets/new-20260919/video-14.mp4",
+      "sha256": "c80513bacbcc5c711c4b7e3a0816ea91ec554daff5af0cb3e531e286857420ea"
+    },
+    {
+      "original": "10.mp4",
+      "path": "assets/new-20260919/video-15.mp4",
+      "sha256": "17ac9eca784f025d7ec2e5a298f9978adc3e0c0932553f997701971838bf788f"
+    },
+    {
+      "original": "11.mp4",
+      "path": "assets/new-20260919/video-16.mp4",
+      "sha256": "d05bb34c25fdc965b7667a52f005b6c7b1f069d31cc76bff4bc12ee4be8cb8ad"
+    },
+    {
+      "original": "12.mp4",
+      "path": "assets/new-20260919/video-17.mp4",
+      "sha256": "89b8db2426d10dfc90026520f27779feab9ec0ea69e3699c984f88305c673f6a"
+    },
+    {
+      "original": "13.mp4",
+      "path": "assets/new-20260919/video-18.mp4",
+      "sha256": "d70cb0754e730679fcc2336f9c97950436f92c493ee7f50ea2c7b3010eee48b1"
+    },
+    {
+      "original": "14.mp4",
+      "path": "assets/new-20260919/video-19.mp4",
+      "sha256": "178656530ce556800727d11a9239b6209d37380c54b0c94dca93afd18ab167ec"
+    },
+    {
+      "original": "《世人愛神》.png",
+      "path": "assets/new-20260919/image-01.webp",
+      "sha256": "fd4f368e80a1caf949ee3c6422dd27bbac21dea25ebe9eb4e091762ce121660e"
+    },
+    {
+      "original": "00000.png",
+      "path": "assets/new-20260919/image-02.webp",
+      "sha256": "8c25897c6e5a92a488917e00ea7bce2b1e124f92eed852e3bc224ae27c0737f2"
+    },
+    {
+      "original": "01.png",
+      "path": "assets/new-20260919/image-03.png",
+      "sha256": "c94e92aa79f1ee2a670da6cc21fa236c33a6e071ad3519a60bfb9218f098da0d"
+    },
+    {
+      "original": "02.png",
+      "path": "assets/new-20260919/image-04.png",
+      "sha256": "d276d5be05b52b4c5cbfada5fca7feb4e52ea4dfec4bfba2842dc3fe9277469c"
+    },
+    {
+      "original": "01_4K.png",
+      "path": "assets/new-20260919/image-05.webp",
+      "sha256": "0601b0cc473e999ce88f4a0efa38f50ed33a05048b8946093927f7c8dfa6f6dc"
+    },
+    {
+      "original": "02_4K.png",
+      "path": "assets/new-20260919/image-06.webp",
+      "sha256": "bc6b634a2e27e7d8d9579ea367b56c9eb9a9ccf8b3e8ba752ddefcdf1fd3d4f2"
+    },
+    {
+      "original": "01_4K純畫面.png",
+      "path": "assets/new-20260919/image-07.webp",
+      "sha256": "925645c7508f91bf739871a402746119a270246d046a1c596aef40abcfab7f51"
+    },
+    {
+      "original": "02_4K純畫面.png",
+      "path": "assets/new-20260919/image-08.webp",
+      "sha256": "9473af313bd230afbbf7f4b4532e64093b3025e69b728d4e75dd640c2a86f6ef"
+    },
+    {
+      "original": "01_一聲水響_4K.png",
+      "path": "assets/new-20260919/image-09.webp",
+      "sha256": "c005f051aef679aa81230265c5d01e8841d45e728e184e23862ccf8ba970f0ae"
+    },
+    {
+      "original": "01_分鏡_4K.png",
+      "path": "assets/new-20260919/image-10.webp",
+      "sha256": "d5627e6f58e656c44c88f001e59d0222b42b7225d5110a9cf2e100a2bbf4d5ca"
+    },
+    {
+      "original": "01_地下街城市漫遊_真人版_4K.png",
+      "path": "assets/new-20260919/image-11.webp",
+      "sha256": "6dbf36cf43fdaf51df9d9ec594470ad1ecd18bee7650d5da327769c82f5d9c39"
+    },
+    {
+      "original": "01_最後一張訂單_4K.png",
+      "path": "assets/new-20260919/image-12.webp",
+      "sha256": "a7dee249a6f5756a672ef96ea7032f06a3fa231d160c271985c6dfe021d01759"
+    },
+    {
+      "original": "01_無心之城_4K.png",
+      "path": "assets/new-20260919/image-13.webp",
+      "sha256": "0161c9cdc0ae358f562b36186384a3ee1228f90e53a858e2065616cbcf5af6b0"
+    },
+    {
+      "original": "01_開場_為什麼要挑對投影機_4K.png",
+      "path": "assets/new-20260919/image-14.webp",
+      "sha256": "fc7d580a52b8d8dd38bfb2e371629613517faea0e429508fa496eb7b6b514bd8"
+    },
+    {
+      "original": "01_錢包見底_4K.png",
+      "path": "assets/new-20260919/image-15.webp",
+      "sha256": "5c7c19b9d3abbac1c31280f1bbd75f3996dfc36b9388402fb6abd62d29a702f5"
+    },
+    {
+      "original": "1 分鐘豆花廣告的 12 格分鏡圖(2).png",
+      "path": "assets/new-20260919/image-16.webp",
+      "sha256": "f6649f4f63e921c26a947d2a9ac820c1b6f2025665f10e0789891f3cb4212968"
+    },
+    {
+      "original": "1.png",
+      "path": "assets/new-20260919/image-17.webp",
+      "sha256": "49aee01156daf4378d3ca455d5b85215a0cdee48dd66e3211ea0232bd774ebb5"
+    },
+    {
+      "original": "1ed893f5-5573-4f80-81ed-bb9e6e4a925e.png",
+      "path": "assets/new-20260919/image-18.webp",
+      "sha256": "1b5075c6eadc804f913992293d652d68ca8863a248e55c6aab5ca772aa878b07"
+    },
+    {
+      "original": "02_先說對不起_4K.png",
+      "path": "assets/new-20260919/image-19.webp",
+      "sha256": "440f405b0cda3405ef8f31eaf051025b79c25066182f618a6d2f0ac760668f95"
+    },
+    {
+      "original": "02_分鏡_4K.png",
+      "path": "assets/new-20260919/image-20.webp",
+      "sha256": "d61ee8c40820ea1e6baf0dc818231c780e78cc834a80fa10aecdb1fb7d546e8a"
+    },
+    {
+      "original": "02_地下街城市漫遊_真人版_4K.png",
+      "path": "assets/new-20260919/image-21.webp",
+      "sha256": "32970e1e09635cb5a2d1a44cc054fbfaab6e9bc70351f3dfc3b872598415d560"
+    },
+    {
+      "original": "02_最後一張訂單_4K.png",
+      "path": "assets/new-20260919/image-22.webp",
+      "sha256": "3fc3fa997ae8ecc5301f9bfe364c740c30bc67baafb4bd761b68263e89749103"
+    },
+    {
+      "original": "02_深夜工作_4K.png",
+      "path": "assets/new-20260919/image-23.webp",
+      "sha256": "03e941bf099cf31f18049eeaccdd0552853a6d6f8c5be8c24ac182249fc8000b"
+    },
+    {
+      "original": "02_無心之城_4K.png",
+      "path": "assets/new-20260919/image-24.webp",
+      "sha256": "407ff73ea8e58e20ae8615a9b35c913545003fcc4e8120ec9ac53692f08c0614"
+    },
+    {
+      "original": "02_第一步_使用需求_4K.png",
+      "path": "assets/new-20260919/image-25.webp",
+      "sha256": "4cc483f81e4d380073ce900b8f754df075af9c43edf11f89b94ed0e3bd5ffa7c"
+    },
+    {
+      "original": "03.png",
+      "path": "assets/new-20260919/image-26.png",
+      "sha256": "11a10f859ec082b09ec52bd2c4ea8f391541320cc4f51fa8fd8c6ed98c2e2545"
+    },
+    {
+      "original": "03_4K.png",
+      "path": "assets/new-20260919/image-27.webp",
+      "sha256": "8072ee1ed2f91c47507f9906315207716a5da62cf06995777ca9b6fa8d47a3ee"
+    },
+    {
+      "original": "03_地下街城市漫遊_真人版_4K.png",
+      "path": "assets/new-20260919/image-28.webp",
+      "sha256": "90b990d8b6a7fd39c34d4ee4c0a01736cf84e94437be5278fadc277684bd73ce"
+    },
+    {
+      "original": "03_差點出口的責罵_4K.png",
+      "path": "assets/new-20260919/image-29.webp",
+      "sha256": "031c3715635cf950ad94a0f7877d623e5eecbd86a1c3ef9456e7d4dea68559d2"
+    },
+    {
+      "original": "03_第二步_亮度_4K.png",
+      "path": "assets/new-20260919/image-30.webp",
+      "sha256": "b1810075007731ae9a23bee864580f06f7fb09da389f50c2b7349e0d52c667ba"
+    },
+    {
+      "original": "2.png",
+      "path": "assets/new-20260919/image-31.webp",
+      "sha256": "c9a05a13027712d9a0c0b36e99fd50458988cc20696d9a8608675fdde7cbfcb0"
+    },
+    {
+      "original": "2bc61b1d-04c9-45ca-9787-45beee04eb61.png",
+      "path": "assets/new-20260919/image-32.webp",
+      "sha256": "977e812fb8e8ff90cac75bccdf0bd0563822313289b8fe63389ab5826bdfd424"
+    },
+    {
+      "original": "2吋.png",
+      "path": "assets/new-20260919/image-33.webp",
+      "sha256": "3326c01b04b300a93eca3250ef324aab4a2475e1e649109a053e37e779295aa2"
+    },
+    {
+      "original": "01_讚.png",
+      "path": "assets/new-20260919/q-01.png",
+      "sha256": "acd63c2be632b12e3266560ca565b63a96742928ce244e5b8159863e8e95a6d1"
+    },
+    {
+      "original": "01_讚啦.png",
+      "path": "assets/new-20260919/q-02.png",
+      "sha256": "1bd366275d9518a9e8e32f94046e0c358196a9198b3fbccea054e3fb2723e1db"
+    },
+    {
+      "original": "02_收到.png",
+      "path": "assets/new-20260919/q-03.png",
+      "sha256": "b7695de0052664dd71d0f5f36e7c89e8d13026e802c92829e54e663157e0a90e"
+    },
+    {
+      "original": "02_早安.png",
+      "path": "assets/new-20260919/q-04.png",
+      "sha256": "bf357cc56022c86546f1f168cd9fb0f68d5d79e9d91f87655d90f87451a81cf5"
+    },
+    {
+      "original": "03_先喝咖啡_等我一下.png",
+      "path": "assets/new-20260919/q-05.png",
+      "sha256": "20f355cb6a32a3bfc2006053fee90add78cca5be516bdd2ac5a627e7f303ecf4"
+    },
+    {
+      "original": "03_有你真好.png",
+      "path": "assets/new-20260919/q-06.png",
+      "sha256": "7b5bdbb58826355596cf9d388b509ecf2f8db3041a571e777943fa732f5ef641"
+    }
+  ],
+  "notes": "此檔為前次加入素材的來源對照；相同內容的影片已合併路徑。最新全站統計請見 最新更新素材.json。"
+}

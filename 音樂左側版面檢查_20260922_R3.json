@@ -1,0 +1,83 @@
+[
+  {
+    "name": "desktop",
+    "width": 1440,
+    "height": 960,
+    "boxes": {
+      ".home-music": {
+        "x": 24,
+        "y": 335.765625,
+        "width": 280,
+        "height": 349.640625
+      },
+      ".hero-intro": {
+        "x": 328,
+        "y": 311.921875,
+        "width": 574.546875,
+        "height": 397.34375
+      },
+      "#projector-ad": {
+        "x": 926.546875,
+        "y": 217.578125,
+        "width": 489.453125,
+        "height": 586.03125
+      }
+    },
+    "playback": "passed",
+    "errors": []
+  },
+  {
+    "name": "tablet",
+    "width": 1024,
+    "height": 900,
+    "boxes": {
+      ".home-music": {
+        "x": 24,
+        "y": 113,
+        "width": 260,
+        "height": 349.640625
+      },
+      ".hero-intro": {
+        "x": 312,
+        "y": 113,
+        "width": 688,
+        "height": 395.8125
+      },
+      "#projector-ad": {
+        "x": 312,
+        "y": 536.8125,
+        "width": 688,
+        "height": 696
+      }
+    },
+    "playback": "passed",
+    "errors": []
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "height": 844,
+    "boxes": {
+      ".home-music": {
+        "x": 16,
+        "y": 93,
+        "width": 358,
+        "height": 279.671875
+      },
+      ".hero-intro": {
+        "x": 16,
+        "y": 400.671875,
+        "width": 358,
+        "height": 364.71875
+      },
+      "#projector-ad": {
+        "x": 16,
+        "y": 793.390625,
+        "width": 358,
+        "height": 514.359375
+      }
+    },
+    "playback": "passed",
+    "errors": []
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-22",
+  "base_library_version": 6,
+  "works": 122,
+  "video_cards": 97,
+  "audio_works": 7,
+  "unique_local_video_files": 70,
+  "unique_local_audio_files": 7,
+  "static_artworks": 12,
+  "pending_video_entries": [
+    "《世人愛神》｜8 格 MV 分鏡",
+    "雨夜街景｜分鏡 01",
+    "熬煮時光｜分鏡 03",
+    "武術人物｜場景 02",
+    "未來機車｜城市夜行",
+    "10 個衝浪爆點"
+  ],
+  "missing_files": [],
+  "checks": {
+    "referenced_local_files": 203,
+    "new_mp3_full_decode_passed": 7,
+    "new_mp3_sha256_matches_original": 7,
+    "original_115_work_records": "內容、影片及圖像連結保留；本次調整音樂入口。",
+    "javascript_syntax": "passed",
+    "music_playlist": "7 entries; selection, previous/next, continuous playback and end of list passed",
+    "music_download_links": "7 original MP3 paths verified",
+    "native_media_exclusivity": "audio/video pause each other",
+    "music_modals": 7,
+    "search_filters_random": "passed",
+    "existing_homepage_buttons_and_series": "preserved",
+    "lossless_images": {
+      "count": 43,
+      "decoded_pixels": "identical",
+      "dimensions": "unchanged",
+      "icc_profiles": "preserved"
+    },
+    "real_browser": {
+      "engine": "Chromium 153.0.8010.0",
+      "protocol": "file:",
+      "homepage_tracks_loaded_and_advanced": 7,
+      "standalone_tracks_loaded_and_advanced": 7,
+      "mobile_playback": "passed at 390×844",
+      "desktop_viewport": "1440×1050",
+      "next_previous_and_exclusive_playback": "passed",
+      "javascript_errors": [],
+      "no_autoplay": "passed",
+      "embedded_audio_hashes": "7/7 match original MP3"
+    },
+    "music_page_native_controls": 7,
+    "music_left_layout": {
+      "desktop": "播放器在最左欄，介紹在中間，廣告在右",
+      "tablet": "播放器在左欄，介紹與廣告在右欄",
+      "mobile": "播放器在最上方",
+      "widths_tested": [
+        1440,
+        1024,
+        390
+      ],
+      "horizontal_overflow": false,
+      "playback": "passed",
+      "track_change": "passed"
+    }
+  },
+  "limits": [
+    "本機 Chromium 驗證顯示、載入與播放時間前進；未驗證使用者電腦的喇叭、系統音量或瀏覽器分頁靜音設定。",
+    "原有70個影片檔完整保留，本次未重做前版完整解碼檢查。",
+    "YouTube 需連線，未驗證外站播放及嵌入權限。",
+    "牛肉麵及豆花仍為素材短片段。",
+    "口袋裡的大螢幕保留來源畫面異常提示。"
+  ],
+  "black_tail_trim": {
+    "original": "大合照 (1).mp4",
+    "original_duration_seconds": 238.083333,
+    "trim_end_seconds": 157.291666667,
+    "duration_seconds": 157.291667,
+    "removed_tail_seconds": 80.79166633300002,
+    "action": "剪除末段黑畫面與對應音訊",
+    "video_path": "assets/update-20260919/movie-17.mp4",
+    "base_website_version": 5,
+    "video_frames": 3775
+  },
+  "latest_homepage_change": {
+    "button_order": [
+      "查看全部作品",
+      "隨機作品",
+      "換個世界"
+    ],
+    "removed": [
+      "首頁操作列：YouTube"
+    ],
+    "layout": "三格等寬排列，中間新增隨機作品",
+    "random_behavior": "隨機開啟一件作品，連續抽選排除上一件。影片與圖像使用既有作品視窗。",
+    "verification": "JavaScript 語法檢查通過；既有素材未變更。"
+  },
+  "release": "2026.09.22 R3 音樂左側版",
+  "music_access_fix": {
+    "homepage": "音樂播放器位於首頁最左側獨立欄位；手機版置於最上方。",
+    "music_section": "移至首頁主視覺後；排除進場動畫",
+    "dedicated_page": "music.html：每首歌曲均有原生播放器",
+    "single_file": "另附單檔 HTML，7 首 MP3 與封面直接內嵌，無外部資源依賴",
+    "old_version_check": "上一版在本次 Chromium 本機測試可顯示並播放；未重現使用者端問題，原因仍未確定。",
+    "original_audio_and_videos": "維持原始位元組"
+  }
+}

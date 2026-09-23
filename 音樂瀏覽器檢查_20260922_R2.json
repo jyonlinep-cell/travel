@@ -1,0 +1,143 @@
+{
+  "browser": "153.0.8010.0",
+  "desktop": [
+    {
+      "first_screen_player": {
+        "x": 149,
+        "y": 616.03125,
+        "width": 581.90625,
+        "height": 42
+      },
+      "home_play": true
+    },
+    {
+      "track": 1,
+      "time": 0.272285,
+      "error": null,
+      "duration": 479.959979,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "track": 2,
+      "time": 0.272739,
+      "error": null,
+      "duration": 301.799979,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "track": 3,
+      "time": 0.275939,
+      "error": null,
+      "duration": 304.999979,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "track": 4,
+      "time": 0.263201,
+      "error": null,
+      "duration": 238.119979,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "track": 5,
+      "time": 0.274327,
+      "error": null,
+      "duration": 286.239979,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "track": 6,
+      "time": 0.256824,
+      "error": null,
+      "duration": 274.719979,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "track": 7,
+      "time": 0.262326,
+      "error": null,
+      "duration": 264.439979,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "section_play": true,
+      "exclusivity": true
+    },
+    {
+      "next_previous": true
+    }
+  ],
+  "mobile": [
+    {
+      "first_screen_player": {
+        "x": 34.5,
+        "y": 472.921875,
+        "width": 321,
+        "height": 42
+      },
+      "play": true,
+      "no_overflow": true
+    }
+  ],
+  "standalone": [
+    {
+      "track": 1,
+      "time": 1.338887,
+      "duration": 479.959979,
+      "error": null
+    },
+    {
+      "track": 2,
+      "time": 0.772221,
+      "duration": 301.799979,
+      "error": null
+    },
+    {
+      "track": 3,
+      "time": 0.722893,
+      "duration": 304.999979,
+      "error": null
+    },
+    {
+      "track": 4,
+      "time": 0.662565,
+      "duration": 238.119979,
+      "error": null
+    },
+    {
+      "track": 5,
+      "time": 0.676306,
+      "duration": 286.239979,
+      "error": null
+    },
+    {
+      "track": 6,
+      "time": 0.873132,
+      "duration": 274.719979,
+      "error": null
+    },
+    {
+      "track": 7,
+      "time": 0.620047,
+      "duration": 264.439979,
+      "error": null
+    }
+  ],
+  "errors": [],
+  "previous": {
+    "music_visible": true,
+    "playback": {
+      "time": 0.262467,
+      "error": null,
+      "muted": false
+    }
+  },
+  "music_page": true
+}

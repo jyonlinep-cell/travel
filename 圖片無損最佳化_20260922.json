@@ -1,0 +1,436 @@
+{
+  "reason": "控制完整網站下載包大小，保留原始MP3與影片",
+  "method": "PNG改為無損WebP；逐檔比對解碼後RGBA像素、尺寸及ICC色彩描述檔",
+  "files": [
+    {
+      "path": "assets/creator-studio.png",
+      "optimized_path": "assets/creator-studio.webp",
+      "before_bytes": 1895068,
+      "after_bytes": 1336754,
+      "saved_bytes": 558314,
+      "pixels_identical": true,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "assets/new-20260919/image-14.png",
+      "optimized_path": "assets/new-20260919/image-14.webp",
+      "before_bytes": 4376539,
+      "after_bytes": 2178838,
+      "saved_bytes": 2197701,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-07.png",
+      "optimized_path": "assets/new-20260919/image-07.webp",
+      "before_bytes": 3592561,
+      "after_bytes": 1504126,
+      "saved_bytes": 2088435,
+      "pixels_identical": true,
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "path": "assets/new-20260919/image-20.png",
+      "optimized_path": "assets/new-20260919/image-20.webp",
+      "before_bytes": 4051177,
+      "after_bytes": 1688492,
+      "saved_bytes": 2362685,
+      "pixels_identical": true,
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "path": "assets/new-20260919/image-23.png",
+      "optimized_path": "assets/new-20260919/image-23.webp",
+      "before_bytes": 2267300,
+      "after_bytes": 996022,
+      "saved_bytes": 1271278,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-16.png",
+      "optimized_path": "assets/new-20260919/image-16.webp",
+      "before_bytes": 3311833,
+      "after_bytes": 1712930,
+      "saved_bytes": 1598903,
+      "pixels_identical": true,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "path": "assets/new-20260919/image-11.png",
+      "optimized_path": "assets/new-20260919/image-11.webp",
+      "before_bytes": 3055894,
+      "after_bytes": 1306286,
+      "saved_bytes": 1749608,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-12.png",
+      "optimized_path": "assets/new-20260919/image-12.webp",
+      "before_bytes": 2456236,
+      "after_bytes": 1052826,
+      "saved_bytes": 1403410,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-27.png",
+      "optimized_path": "assets/new-20260919/image-27.webp",
+      "before_bytes": 2288485,
+      "after_bytes": 961592,
+      "saved_bytes": 1326893,
+      "pixels_identical": true,
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "path": "assets/new-20260919/image-29.png",
+      "optimized_path": "assets/new-20260919/image-29.webp",
+      "before_bytes": 3846127,
+      "after_bytes": 1855234,
+      "saved_bytes": 1990893,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-06.png",
+      "optimized_path": "assets/new-20260919/image-06.webp",
+      "before_bytes": 1970828,
+      "after_bytes": 810932,
+      "saved_bytes": 1159896,
+      "pixels_identical": true,
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "path": "assets/new-20260919/image-28.png",
+      "optimized_path": "assets/new-20260919/image-28.webp",
+      "before_bytes": 2468595,
+      "after_bytes": 1003246,
+      "saved_bytes": 1465349,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-33.png",
+      "optimized_path": "assets/new-20260919/image-33.webp",
+      "before_bytes": 2524945,
+      "after_bytes": 1219806,
+      "saved_bytes": 1305139,
+      "pixels_identical": true,
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "path": "assets/new-20260919/image-15.png",
+      "optimized_path": "assets/new-20260919/image-15.webp",
+      "before_bytes": 2185129,
+      "after_bytes": 890300,
+      "saved_bytes": 1294829,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-18.png",
+      "optimized_path": "assets/new-20260919/image-18.webp",
+      "before_bytes": 3681454,
+      "after_bytes": 2051244,
+      "saved_bytes": 1630210,
+      "pixels_identical": true,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "assets/new-20260919/image-17.png",
+      "optimized_path": "assets/new-20260919/image-17.webp",
+      "before_bytes": 4088884,
+      "after_bytes": 2009954,
+      "saved_bytes": 2078930,
+      "pixels_identical": true,
+      "width": 1150,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-09.png",
+      "optimized_path": "assets/new-20260919/image-09.webp",
+      "before_bytes": 4001551,
+      "after_bytes": 1889328,
+      "saved_bytes": 2112223,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-10.png",
+      "optimized_path": "assets/new-20260919/image-10.webp",
+      "before_bytes": 3455157,
+      "after_bytes": 1458952,
+      "saved_bytes": 1996205,
+      "pixels_identical": true,
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "path": "assets/new-20260919/image-13.png",
+      "optimized_path": "assets/new-20260919/image-13.webp",
+      "before_bytes": 3454045,
+      "after_bytes": 1492392,
+      "saved_bytes": 1961653,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-31.png",
+      "optimized_path": "assets/new-20260919/image-31.webp",
+      "before_bytes": 4326001,
+      "after_bytes": 2079576,
+      "saved_bytes": 2246425,
+      "pixels_identical": true,
+      "width": 1150,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-02.png",
+      "optimized_path": "assets/new-20260919/image-02.webp",
+      "before_bytes": 3617670,
+      "after_bytes": 1820942,
+      "saved_bytes": 1796728,
+      "pixels_identical": true,
+      "width": 1664,
+      "height": 928
+    },
+    {
+      "path": "assets/new-20260919/image-05.png",
+      "optimized_path": "assets/new-20260919/image-05.webp",
+      "before_bytes": 1962846,
+      "after_bytes": 838202,
+      "saved_bytes": 1124644,
+      "pixels_identical": true,
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "path": "assets/new-20260919/image-08.png",
+      "optimized_path": "assets/new-20260919/image-08.webp",
+      "before_bytes": 3305000,
+      "after_bytes": 1440958,
+      "saved_bytes": 1864042,
+      "pixels_identical": true,
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "path": "assets/new-20260919/image-21.png",
+      "optimized_path": "assets/new-20260919/image-21.webp",
+      "before_bytes": 2505960,
+      "after_bytes": 1101524,
+      "saved_bytes": 1404436,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-22.png",
+      "optimized_path": "assets/new-20260919/image-22.webp",
+      "before_bytes": 1634119,
+      "after_bytes": 654664,
+      "saved_bytes": 979455,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-32.png",
+      "optimized_path": "assets/new-20260919/image-32.webp",
+      "before_bytes": 3455533,
+      "after_bytes": 1896832,
+      "saved_bytes": 1558701,
+      "pixels_identical": true,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "path": "assets/new-20260919/image-30.png",
+      "optimized_path": "assets/new-20260919/image-30.webp",
+      "before_bytes": 4234699,
+      "after_bytes": 2075076,
+      "saved_bytes": 2159623,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-01.png",
+      "optimized_path": "assets/new-20260919/image-01.webp",
+      "before_bytes": 3318744,
+      "after_bytes": 1819658,
+      "saved_bytes": 1499086,
+      "pixels_identical": true,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "assets/new-20260919/image-25.png",
+      "optimized_path": "assets/new-20260919/image-25.webp",
+      "before_bytes": 4407363,
+      "after_bytes": 2172498,
+      "saved_bytes": 2234865,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-19.png",
+      "optimized_path": "assets/new-20260919/image-19.webp",
+      "before_bytes": 4121615,
+      "after_bytes": 2003804,
+      "saved_bytes": 2117811,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/new-20260919/image-24.png",
+      "optimized_path": "assets/new-20260919/image-24.webp",
+      "before_bytes": 3207618,
+      "after_bytes": 1378072,
+      "saved_bytes": 1829546,
+      "pixels_identical": true,
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "path": "assets/images/山上小屋推廣日出好美 星空好美 山上小屋推廣.png",
+      "optimized_path": "assets/images/山上小屋推廣日出好美 星空好美 山上小屋推廣.webp",
+      "before_bytes": 3413680,
+      "after_bytes": 1793186,
+      "saved_bytes": 1620494,
+      "pixels_identical": true,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "path": "assets/images/40 格沖浪分鏡圖.png",
+      "optimized_path": "assets/images/40 格沖浪分鏡圖.webp",
+      "before_bytes": 3375770,
+      "after_bytes": 1685282,
+      "saved_bytes": 1690488,
+      "pixels_identical": true,
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "assets/images/1 分鐘豆花廣告的 12 格分鏡圖.png",
+      "optimized_path": "assets/images/1 分鐘豆花廣告的 12 格分鏡圖.webp",
+      "before_bytes": 3311898,
+      "after_bytes": 1711996,
+      "saved_bytes": 1599902,
+      "pixels_identical": true,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "path": "assets/images/10 個沖浪爆點分鏡圖.png",
+      "optimized_path": "assets/images/10 個沖浪爆點分鏡圖.webp",
+      "before_bytes": 3649841,
+      "after_bytes": 1832580,
+      "saved_bytes": 1817261,
+      "pixels_identical": true,
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "assets/images/台式豆花暖心分鏡(2).png",
+      "optimized_path": "assets/images/台式豆花暖心分鏡(2).webp",
+      "before_bytes": 3311607,
+      "after_bytes": 1712236,
+      "saved_bytes": 1599371,
+      "pixels_identical": true,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "path": "assets/images/10 格精華分鏡圖.png",
+      "optimized_path": "assets/images/10 格精華分鏡圖.webp",
+      "before_bytes": 3507294,
+      "after_bytes": 1793052,
+      "saved_bytes": 1714242,
+      "pixels_identical": true,
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "assets/images/10 個沖浪爆點分鏡圖(1).png",
+      "optimized_path": "assets/images/10 個沖浪爆點分鏡圖(1).webp",
+      "before_bytes": 3649833,
+      "after_bytes": 1832636,
+      "saved_bytes": 1817197,
+      "pixels_identical": true,
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "assets/images/去背.png",
+      "optimized_path": "assets/images/去背.webp",
+      "before_bytes": 1589079,
+      "after_bytes": 844472,
+      "saved_bytes": 744607,
+      "pixels_identical": true,
+      "width": 1530,
+      "height": 1028
+    },
+    {
+      "path": "assets/images/16 格末日七變機車之旅.png",
+      "optimized_path": "assets/images/16 格末日七變機車之旅.webp",
+      "before_bytes": 4022936,
+      "after_bytes": 2204178,
+      "saved_bytes": 1818758,
+      "pixels_identical": true,
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "assets/images/q/q-angel.png",
+      "optimized_path": "assets/images/q/q-angel.webp",
+      "before_bytes": 3433950,
+      "after_bytes": 2899920,
+      "saved_bytes": 534030,
+      "pixels_identical": true,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "assets/images/q/q-daily.png",
+      "optimized_path": "assets/images/q/q-daily.webp",
+      "before_bytes": 2195023,
+      "after_bytes": 1730438,
+      "saved_bytes": 464585,
+      "pixels_identical": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "assets/images/q/q-devil.png",
+      "optimized_path": "assets/images/q/q-devil.webp",
+      "before_bytes": 2558488,
+      "after_bytes": 1827144,
+      "saved_bytes": 731344,
+      "pixels_identical": true,
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

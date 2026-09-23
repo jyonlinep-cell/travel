@@ -1,0 +1,117 @@
+{
+  "date": "2026-09-22",
+  "version": "R4",
+  "base_library_version": 7,
+  "works": 132,
+  "audio_works": 16,
+  "video_cards": 98,
+  "new_works": 10,
+  "referenced_files_checked": 267,
+  "missing_files": [],
+  "original_122_records_preserved_except_new_badge": true,
+  "audio_original_sha256_verified": 16,
+  "video_original_sha256_verified": true,
+  "javascript_syntax": "passed",
+  "audio_decode": [
+    {
+      "name": "99號當鋪.mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "一杯咖啡的距離.mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "世界準備好了嗎.mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "人生玩家-俊誼做的第一個AI  mp3(1).mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "健行 AI 全方位起飛(1).mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "卡特老師(1).mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "我不選天使(1).mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "文祥，祝你發大財.mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "永遠笑嘻嘻的小菁老師(1).mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "為你而來的救世主.mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "第四象限.mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "謝謝您楓老師(1).mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "謝謝您，琬芸老師.mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "雨落礁溪.mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "電商解惑(1).mp3",
+      "passed": true,
+      "errors": ""
+    },
+    {
+      "name": "黑粉也是粉(1).mp3",
+      "passed": true,
+      "errors": ""
+    }
+  ],
+  "new_video_full_decode": "passed",
+  "blank_rtf_files": [
+    {
+      "name": "01以資料生成歌詞.rtf",
+      "path": "assets/songcraft/step-01.rtf",
+      "bytes": 7,
+      "status": "待補內容：上傳原檔僅含 RTF 格式標頭，沒有文字內容",
+      "sha256": "0d6afb7e939f0936f40afdc759b5a354ea5427ec250a47e7b904ab1ea800a01d"
+    },
+    {
+      "name": "02生成曲調 給suno .rtf",
+      "path": "assets/songcraft/step-02.rtf",
+      "bytes": 7,
+      "status": "待補內容：上傳原檔僅含 RTF 格式標頭，沒有文字內容",
+      "sha256": "0d6afb7e939f0936f40afdc759b5a354ea5427ec250a47e7b904ab1ea800a01d"
+    }
+  ],
+  "browser_validation": "本次環境無可用 Chromium，下載未成功；未完成 R4 真實瀏覽器播放與版面實測。R3 的瀏覽器檢查紀錄保留，僅代表前版。",
+  "layout": "沿用 R3 桌面最左側播放器、平板左欄與手機最上方排列；完整曲目清單在桌面可捲動。",
+  "delivery": "兩個標準 ZIP，解壓縮到同一資料夾後構成完整網站。"
+}

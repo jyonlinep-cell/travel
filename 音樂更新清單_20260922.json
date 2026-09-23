@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-22",
+  "base_library_version": 4,
+  "tracks": [
+    {
+      "title": "卡特老師",
+      "source_library_file_id": "libfile_be755d1a6ff08191b66271071206232a",
+      "originalName": "卡特老師.mp3",
+      "path": "assets/music-20260922/track-01.mp3",
+      "cover": "assets/music-20260922/cover-01.jpg",
+      "duration_seconds": 480.0,
+      "size_bytes": 11389827,
+      "sha256": "03db95371bd129c81647cef86cfc7058f289ab345cbd8a4d660f6428479ebc9d",
+      "original_audio_preserved": true
+    },
+    {
+      "title": "永遠笑嘻嘻的小菁老師",
+      "source_library_file_id": "libfile_84f660c066548191bdff17f9fb9d927e",
+      "originalName": "永遠笑嘻嘻的小菁老師.mp3",
+      "path": "assets/music-20260922/track-02.mp3",
+      "cover": "assets/music-20260922/cover-02.jpg",
+      "duration_seconds": 301.824,
+      "size_bytes": 7156176,
+      "sha256": "e3cdd060c3d08341ee89ffb077bfd8a55f4f85d8a6e229a6c1fd695df367598f",
+      "original_audio_preserved": true
+    },
+    {
+      "title": "我不選天使",
+      "source_library_file_id": "libfile_b57a482f6a1c8191846425cfa504431a",
+      "originalName": "我不選天使.mp3",
+      "path": "assets/music-20260922/track-03.mp3",
+      "cover": "assets/music-20260922/cover-03.jpg",
+      "duration_seconds": 305.04,
+      "size_bytes": 7064716,
+      "sha256": "353aab6f5b5d9f1722bafc64f20d0cd88a80d2e68a9d3c83adf45df11f1998ef",
+      "original_audio_preserved": true
+    },
+    {
+      "title": "健行 AI 全方位起飛",
+      "source_library_file_id": "libfile_7e4a3c6e61dc8191822ed722ab2b26f6",
+      "originalName": "健行 AI 全方位起飛.mp3",
+      "path": "assets/music-20260922/track-04.mp3",
+      "cover": "assets/music-20260922/cover-04.jpg",
+      "duration_seconds": 238.152,
+      "size_bytes": 5632042,
+      "sha256": "0a8ef6aad5e0531e6b79eb93b380b4f646e40c7b598dc2418c3c8bfceaa9f186",
+      "original_audio_preserved": true
+    },
+    {
+      "title": "黑粉也是粉",
+      "source_library_file_id": "libfile_87da7fbad6008191ab55d064cb986bde",
+      "originalName": "黑粉也是粉.mp3",
+      "path": "assets/music-20260922/track-05.mp3",
+      "cover": "assets/music-20260922/cover-05.jpg",
+      "duration_seconds": 286.272,
+      "size_bytes": 6695095,
+      "sha256": "136442639b24383f0a2596f6d794295a1763daae861a82ac88e51c32796ad2b5",
+      "original_audio_preserved": true
+    },
+    {
+      "title": "電商解惑",
+      "source_library_file_id": "libfile_dfe153f9be448191aa94190b6e61a69d",
+      "originalName": "電商解惑.mp3",
+      "path": "assets/music-20260922/track-06.mp3",
+      "cover": "assets/music-20260922/cover-06.jpg",
+      "duration_seconds": 274.752,
+      "size_bytes": 6445446,
+      "sha256": "ff72ec593c9fdd5d303ae731501e0f66d9ad64cf6d3698f795e7a114f45f23b1",
+      "original_audio_preserved": true
+    },
+    {
+      "title": "謝謝您楓老師",
+      "source_library_file_id": "libfile_cef4fc818adc8191b7681944668ad1ec",
+      "originalName": "謝謝您楓老師.mp3",
+      "path": "assets/music-20260922/track-07.mp3",
+      "cover": "assets/music-20260922/cover-07.jpg",
+      "duration_seconds": 264.48,
+      "size_bytes": 6181198,
+      "sha256": "33d42967f888f7f2ad9c60a4ac46bd8260b32140206edf6f9f6abcf2cafc6889",
+      "original_audio_preserved": true
+    }
+  ],
+  "total_duration_seconds": 2150.52,
+  "audio_preservation": "原始 MP3 完整保留，未重編碼；封面取自各 MP3 內附圖片。"
+}

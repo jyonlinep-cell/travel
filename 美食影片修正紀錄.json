@@ -1,0 +1,37 @@
+{
+  "base_version": 6,
+  "changes": [
+    {
+      "title": "牛肉麵街",
+      "video": "assets/food-clips/beef-noodle-shop.mp4",
+      "duration": 4.096009,
+      "storyboard": "assets/images/牛肉麵街_封面.png",
+      "complete_film": false
+    },
+    {
+      "title": "台式豆花暖心版",
+      "video": "assets/update-20260919/movie-13.mp4",
+      "duration": 5.108005,
+      "storyboard": "assets/images/台式豆花暖心分鏡(2).webp",
+      "complete_film": false
+    },
+    {
+      "title": "一分鐘豆花廣告｜12 格分鏡",
+      "video": "assets/update-20260919/movie-13.mp4",
+      "duration": 5.108005,
+      "storyboard": "assets/new-20260919/image-16.webp",
+      "complete_film": false
+    }
+  ],
+  "works": 115,
+  "video_cards": 71,
+  "unique_video_files": 69,
+  "full_length_films_found": false,
+  "notes": "目前補上已找到的4秒及5秒影片片段，完整成片尚待補入。",
+  "scope": "本日第一階段美食修正紀錄；最終數量與全站修正請看檢查結果.json及全站影片修正紀錄_20260920.json。",
+  "additional_beef_clip": {
+    "video": "assets/food-clips/beef-closeup.mp4",
+    "duration": 4.096009,
+    "originalName": "06_滿滿厚切牛肉.mp4"
+  }
+}

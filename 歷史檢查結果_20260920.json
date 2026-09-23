@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-20",
+  "works": 115,
+  "video_cards": 97,
+  "unique_local_video_files": 70,
+  "new_playback_entries": 29,
+  "static_artworks": 12,
+  "pending_video_entries": [
+    "《世人愛神》｜8 格 MV 分鏡",
+    "雨夜街景｜分鏡 01",
+    "熬煮時光｜分鏡 03",
+    "武術人物｜場景 02",
+    "未來機車｜城市夜行",
+    "10 個衝浪爆點"
+  ],
+  "missing_files": [],
+  "checks": {
+    "referenced_local_files": 229,
+    "decoded_images": 159,
+    "full_video_decode_passed": 70,
+    "javascript_syntax": "passed",
+    "dom_modal_checks": 115,
+    "video_source_checks": 97,
+    "filters": [
+      "all",
+      "video",
+      "updated",
+      "pending"
+    ],
+    "food_search": "passed",
+    "food_additional_clip": "passed",
+    "homepage_youtube_link": "exact user URL",
+    "local_and_hosted_display_logic": "passed"
+  },
+  "limits": [
+    "本次 DOM 與媒體檢查未包含真實瀏覽器版面截圖或逐格人工審片。",
+    "YouTube 連結依使用者提供；外站播放與嵌入權限未能驗證。",
+    "牛肉麵為兩段各約4秒片段；豆花為約5秒片段，皆非完整一分鐘成片。",
+    "口袋裡的大螢幕來源影像異常提示保留；解碼成功不代表已修復原始畫面。"
+  ],
+  "black_tail_trim": {
+    "original": "大合照 (1).mp4",
+    "original_duration_seconds": 238.083333,
+    "trim_end_seconds": 157.291666667,
+    "duration_seconds": 157.291667,
+    "removed_tail_seconds": 80.79166633300002,
+    "action": "剪除末段黑畫面與對應音訊",
+    "video_path": "assets/update-20260919/movie-17.mp4",
+    "base_website_version": 5,
+    "video_frames": 3775
+  },
+  "previous_browser_checks": "歷史檢查結果_20260919.json（前版測試，非本次測試結果）",
+  "homepage_control_fix": {
+    "removed": "左側重複的投影機 15秒廣告按鈕",
+    "preserved": "右側廣告卡片及觀看入口",
+    "world_switch": "點擊後直接切換首頁背景，暫停並隱藏原背景影片；背景去除重複",
+    "verification": "本機與 HTTPS 模式各連續點擊 30 次，首頁背景均更新、素材存在、背景影片隱藏並暫停、自動輪播同步。此為 DOM 與程式驗證，非瀏覽器畫面測試。",
+    "status": "歷史紀錄；依後續使用者指示，換個世界按鈕已移除。"
+  },
+  "latest_homepage_change": {
+    "button_order": [
+      "查看全部作品",
+      "隨機作品",
+      "換個世界"
+    ],
+    "removed": [
+      "首頁操作列：YouTube"
+    ],
+    "layout": "三格等寬排列，中間新增隨機作品",
+    "random_behavior": "隨機開啟一件作品，連續抽選排除上一件。影片與圖像使用既有作品視窗。",
+    "verification": "JavaScript 語法檢查通過；既有素材未變更。"
+  }
+}

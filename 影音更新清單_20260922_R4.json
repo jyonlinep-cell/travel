@@ -1,0 +1,193 @@
+{
+  "version": "R4",
+  "base_version": 7,
+  "new_songs": 9,
+  "existing_identical_songs": 7,
+  "total_songs": 16,
+  "total_works": 132,
+  "music_total_seconds": 4931.448,
+  "music": [
+    {
+      "uploaded_name": "99號當鋪.mp3",
+      "title": "99號當鋪",
+      "path": "assets/music-20260922/track-08.mp3",
+      "cover": "assets/music-20260922/cover-08.jpg",
+      "seconds": 420.024,
+      "sha256": "53c4f5c63774cb4ccf6e73a4cac14eb06b2864a84d05c8a73b540cfc0f56fde4",
+      "action": "新增"
+    },
+    {
+      "uploaded_name": "一杯咖啡的距離.mp3",
+      "title": "一杯咖啡的距離",
+      "path": "assets/music-20260922/track-09.mp3",
+      "cover": "assets/music-20260922/cover-09.jpg",
+      "seconds": 330.0,
+      "sha256": "9fbf981a62e3134bf7a5935de4d88114362f935f3faa5817a30a2d042afa43aa",
+      "action": "新增"
+    },
+    {
+      "uploaded_name": "世界準備好了嗎.mp3",
+      "title": "世界準備好了嗎",
+      "path": "assets/music-20260922/track-10.mp3",
+      "cover": "assets/music-20260922/cover-10.jpg",
+      "seconds": 272.952,
+      "sha256": "17f48bfc319dc8c2fd8c5b714bdbe4e92783640fbdb9479d4bf1bb1d78a43b59",
+      "action": "新增"
+    },
+    {
+      "uploaded_name": "人生玩家-俊誼做的第一個AI  mp3(1).mp3",
+      "title": "人生玩家-俊誼做的第一個AI",
+      "path": "assets/music-20260922/track-11.mp3",
+      "cover": "assets/music-20260922/cover-11.jpg",
+      "seconds": 276.792,
+      "sha256": "a0478e1fbac87e3d48250eb39802ec6a8c0a5f2e636be4ab13a7e09d35b50da0",
+      "action": "新增"
+    },
+    {
+      "uploaded_name": "健行 AI 全方位起飛(1).mp3",
+      "title": "健行 AI 全方位起飛",
+      "path": "assets/music-20260922/track-04.mp3",
+      "cover": "assets/music-20260922/cover-04.jpg",
+      "seconds": 238.152,
+      "sha256": "0a8ef6aad5e0531e6b79eb93b380b4f646e40c7b598dc2418c3c8bfceaa9f186",
+      "action": "既有相同檔案，不重複加入"
+    },
+    {
+      "uploaded_name": "卡特老師(1).mp3",
+      "title": "卡特老師",
+      "path": "assets/music-20260922/track-01.mp3",
+      "cover": "assets/music-20260922/cover-01.jpg",
+      "seconds": 480.0,
+      "sha256": "03db95371bd129c81647cef86cfc7058f289ab345cbd8a4d660f6428479ebc9d",
+      "action": "既有相同檔案，不重複加入"
+    },
+    {
+      "uploaded_name": "我不選天使(1).mp3",
+      "title": "我不選天使",
+      "path": "assets/music-20260922/track-03.mp3",
+      "cover": "assets/music-20260922/cover-03.jpg",
+      "seconds": 305.04,
+      "sha256": "353aab6f5b5d9f1722bafc64f20d0cd88a80d2e68a9d3c83adf45df11f1998ef",
+      "action": "既有相同檔案，不重複加入"
+    },
+    {
+      "uploaded_name": "文祥，祝你發大財.mp3",
+      "title": "文祥，祝你發大財",
+      "path": "assets/music-20260922/track-12.mp3",
+      "cover": "assets/music-20260922/cover-12.jpg",
+      "seconds": 240.024,
+      "sha256": "bf2739fc97cfb6451c636419fbe0d6a17fd7836ebc0bb80d0b8dbb7606be7644",
+      "action": "新增"
+    },
+    {
+      "uploaded_name": "永遠笑嘻嘻的小菁老師(1).mp3",
+      "title": "永遠笑嘻嘻的小菁老師",
+      "path": "assets/music-20260922/track-02.mp3",
+      "cover": "assets/music-20260922/cover-02.jpg",
+      "seconds": 301.824,
+      "sha256": "e3cdd060c3d08341ee89ffb077bfd8a55f4f85d8a6e229a6c1fd695df367598f",
+      "action": "既有相同檔案，不重複加入"
+    },
+    {
+      "uploaded_name": "為你而來的救世主.mp3",
+      "title": "為你而來的救世主",
+      "path": "assets/music-20260922/track-13.mp3",
+      "cover": "assets/music-20260922/cover-13.jpg",
+      "seconds": 323.712,
+      "sha256": "8f4b075777e93d0d05d12fa7ac63d43b55d7fe2b210e3d372a1190b7e4a97cf0",
+      "action": "新增"
+    },
+    {
+      "uploaded_name": "第四象限.mp3",
+      "title": "第四象限",
+      "path": "assets/music-20260922/track-14.mp3",
+      "cover": "assets/music-20260922/cover-14.jpg",
+      "seconds": 353.664,
+      "sha256": "0d3689be183b53063aa375ddb11991ae2da909d070111e4e68faaa998dcce656",
+      "action": "新增"
+    },
+    {
+      "uploaded_name": "謝謝您楓老師(1).mp3",
+      "title": "謝謝您楓老師",
+      "path": "assets/music-20260922/track-07.mp3",
+      "cover": "assets/music-20260922/cover-07.jpg",
+      "seconds": 264.48,
+      "sha256": "33d42967f888f7f2ad9c60a4ac46bd8260b32140206edf6f9f6abcf2cafc6889",
+      "action": "既有相同檔案，不重複加入"
+    },
+    {
+      "uploaded_name": "謝謝您，琬芸老師.mp3",
+      "title": "謝謝您，琬芸老師",
+      "path": "assets/music-20260922/track-15.mp3",
+      "cover": "assets/music-20260922/cover-15.jpg",
+      "seconds": 245.016,
+      "sha256": "e64630e0565c5c01569e7977947266267ec075ce9d04faa2c06ca2ae3ebff760",
+      "action": "新增"
+    },
+    {
+      "uploaded_name": "雨落礁溪.mp3",
+      "title": "雨落礁溪",
+      "path": "assets/music-20260922/track-16.mp3",
+      "cover": "assets/music-20260922/cover-16.jpg",
+      "seconds": 318.744,
+      "sha256": "fef7ce20f4a027e62f3aa418a3b6b4fbb2b030dd0524129225a953634a94ca47",
+      "action": "新增"
+    },
+    {
+      "uploaded_name": "電商解惑(1).mp3",
+      "title": "電商解惑",
+      "path": "assets/music-20260922/track-06.mp3",
+      "cover": "assets/music-20260922/cover-06.jpg",
+      "seconds": 274.752,
+      "sha256": "ff72ec593c9fdd5d303ae731501e0f66d9ad64cf6d3698f795e7a114f45f23b1",
+      "action": "既有相同檔案，不重複加入"
+    },
+    {
+      "uploaded_name": "黑粉也是粉(1).mp3",
+      "title": "黑粉也是粉",
+      "path": "assets/music-20260922/track-05.mp3",
+      "cover": "assets/music-20260922/cover-05.jpg",
+      "seconds": 286.272,
+      "sha256": "136442639b24383f0a2596f6d794295a1763daae861a82ac88e51c32796ad2b5",
+      "action": "既有相同檔案，不重複加入"
+    }
+  ],
+  "video": {
+    "title": "這 5 種工作，AI 已經開始搶飯碗",
+    "cat": "creative",
+    "tag": "AI 與工作",
+    "img": "assets/update-20260922/ai-jobs.jpg",
+    "thumb": "assets/update-20260922/ai-jobs.jpg",
+    "video": "assets/update-20260922/ai-jobs.mp4",
+    "duration": 45.603991,
+    "width": 1080,
+    "height": 1964,
+    "desc": "以 AI 與工作變化為主題的短影音作品。",
+    "tools": [
+      "AI 影像",
+      "短影音"
+    ],
+    "originalName": "這 5 種工作，AI 已經開始搶飯碗.mp4",
+    "isNew": true,
+    "addedAt": "2026-09-22",
+    "mediaStatus": "video",
+    "mediaLabel": "影片",
+    "sha256": "b36b9643a2ebb446193e5b379b725007b77480ee1393b9d40513f33521eabe60"
+  },
+  "documents": [
+    {
+      "name": "01以資料生成歌詞.rtf",
+      "path": "assets/songcraft/step-01.rtf",
+      "bytes": 7,
+      "status": "待補內容：上傳原檔僅含 RTF 格式標頭，沒有文字內容",
+      "sha256": "0d6afb7e939f0936f40afdc759b5a354ea5427ec250a47e7b904ab1ea800a01d"
+    },
+    {
+      "name": "02生成曲調 給suno .rtf",
+      "path": "assets/songcraft/step-02.rtf",
+      "bytes": 7,
+      "status": "待補內容：上傳原檔僅含 RTF 格式標頭，沒有文字內容",
+      "sha256": "0d6afb7e939f0936f40afdc759b5a354ea5427ec250a47e7b904ab1ea800a01d"
+    }
+  ]
+}

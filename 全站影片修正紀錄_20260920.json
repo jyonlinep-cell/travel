@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-20",
+  "base_version": 6,
+  "works": 115,
+  "video_cards": 97,
+  "new_playback_entries": 29,
+  "static_artworks": 12,
+  "pending_video_entries": [
+    "《世人愛神》｜8 格 MV 分鏡",
+    "雨夜街景｜分鏡 01",
+    "熬煮時光｜分鏡 03",
+    "武術人物｜場景 02",
+    "未來機車｜城市夜行",
+    "10 個衝浪爆點"
+  ],
+  "linked_storyboards": [
+    {
+      "title": "健行 AI｜團體合照",
+      "source_title": "大合照｜長版",
+      "video": "assets/update-20260919/movie-17.mp4",
+      "duration": 157.291667
+    },
+    {
+      "title": "地球曙光｜場景 01",
+      "source_title": "海上未來城",
+      "video": "assets/update-20260919/movie-34.mp4",
+      "duration": 91.021995
+    },
+    {
+      "title": "海上未來城｜場景 02",
+      "source_title": "海上未來城",
+      "video": "assets/update-20260919/movie-34.mp4",
+      "duration": 91.021995
+    },
+    {
+      "title": "古武傳承｜場景 01",
+      "source_title": "中華功夫大師Ⅵ：萬機歸一",
+      "video": "assets/update-20260919/movie-06.mp4",
+      "duration": 75.812993
+    },
+    {
+      "title": "機械甦醒｜場景 02",
+      "source_title": "中華功夫大師Ⅵ：萬機歸一",
+      "video": "assets/update-20260919/movie-06.mp4",
+      "duration": 75.812993
+    },
+    {
+      "title": "一聲水響｜開場",
+      "source_title": "小孩成長，用鼓勵代替打罵",
+      "video": "assets/update-20260919/movie-23.mp4",
+      "duration": 60.812993
+    },
+    {
+      "title": "天外來光｜分鏡 01",
+      "source_title": "中華功夫大師Ⅴ：天外來客",
+      "video": "assets/update-20260919/movie-10.mp4",
+      "duration": 100.820998
+    },
+    {
+      "title": "地下街城市漫遊｜開場",
+      "source_title": "桃園鐵路地下化｜城市想像",
+      "video": "assets/update-20260919/movie-31.mp4",
+      "duration": 90.812993
+    },
+    {
+      "title": "最後一張訂單｜開場",
+      "source_title": "最後一張訂單",
+      "video": "assets/update-20260919/movie-28.mp4",
+      "duration": 86.007007
+    },
+    {
+      "title": "無心之城｜開場",
+      "source_title": "無心之城",
+      "video": "assets/update-20260919/movie-35.mp4",
+      "duration": 90.812993
+    },
+    {
+      "title": "為什麼要挑對投影機｜開場",
+      "source_title": "魚老師解說如何挑投影機",
+      "video": "assets/update-20260919/movie-42.mp4",
+      "duration": 120.812993
+    },
+    {
+      "title": "錢包見底｜開場",
+      "source_title": "財富思維｜讓錢自己流進來",
+      "video": "assets/update-20260919/movie-30.mp4",
+      "duration": 60.812993
+    },
+    {
+      "title": "武術人物｜角色畫面",
+      "source_title": "中華功夫大師",
+      "video": "assets/update-20260919/movie-05.mp4",
+      "duration": 30.418005
+    },
+    {
+      "title": "武俠奇幻｜故事分鏡",
+      "source_title": "中華功夫大師Ⅱ：最後一課",
+      "video": "assets/update-20260919/movie-07.mp4",
+      "duration": 30.418005
+    },
+    {
+      "title": "先說對不起｜場景 02",
+      "source_title": "小孩成長，用鼓勵代替打罵",
+      "video": "assets/update-20260919/movie-23.mp4",
+      "duration": 60.812993
+    },
+    {
+      "title": "雪山機械來客｜分鏡 02",
+      "source_title": "中華功夫大師Ⅴ：天外來客",
+      "video": "assets/update-20260919/movie-10.mp4",
+      "duration": 100.820998
+    },
+    {
+      "title": "地下街城市漫遊｜場景 02",
+      "source_title": "桃園鐵路地下化｜城市想像",
+      "video": "assets/update-20260919/movie-31.mp4",
+      "duration": 90.812993
+    },
+    {
+      "title": "最後一張訂單｜場景 02",
+      "source_title": "最後一張訂單",
+      "video": "assets/update-20260919/movie-28.mp4",
+      "duration": 86.007007
+    },
+    {
+      "title": "深夜工作｜場景 02",
+      "source_title": "財富思維｜讓錢自己流進來",
+      "video": "assets/update-20260919/movie-30.mp4",
+      "duration": 60.812993
+    },
+    {
+      "title": "無心之城｜場景 02",
+      "source_title": "無心之城",
+      "video": "assets/update-20260919/movie-35.mp4",
+      "duration": 90.812993
+    },
+    {
+      "title": "挑對投影機｜使用需求",
+      "source_title": "魚老師解說如何挑投影機",
+      "video": "assets/update-20260919/movie-42.mp4",
+      "duration": 120.812993
+    },
+    {
+      "title": "海上未來城｜場景 03",
+      "source_title": "海上未來城",
+      "video": "assets/update-20260919/movie-34.mp4",
+      "duration": 91.021995
+    },
+    {
+      "title": "地下街城市漫遊｜場景 03",
+      "source_title": "桃園鐵路地下化｜城市想像",
+      "video": "assets/update-20260919/movie-31.mp4",
+      "duration": 90.812993
+    },
+    {
+      "title": "差點出口的責罵｜場景 03",
+      "source_title": "小孩成長，用鼓勵代替打罵",
+      "video": "assets/update-20260919/movie-23.mp4",
+      "duration": 60.812993
+    },
+    {
+      "title": "挑對投影機｜亮度",
+      "source_title": "魚老師解說如何挑投影機",
+      "video": "assets/update-20260919/movie-42.mp4",
+      "duration": 120.812993
+    },
+    {
+      "title": "街角店面｜分鏡 02",
+      "source_title": "牛肉麵街",
+      "video": "assets/food-clips/beef-noodle-shop.mp4",
+      "duration": 4.096009
+    }
+  ],
+  "homepage_ad": {
+    "title": "投影機 15秒廣告",
+    "url": "https://www.youtube.com/watch?v=GJV4ZMyq6BM",
+    "availability": "網址依使用者提供；未能驗證 YouTube 播放及嵌入權限。"
+  },
+  "source_notes": [
+    "牛肉麵街兩段各約4秒，尚非一分鐘成片。",
+    "豆花使用約5秒片段，尚非一分鐘成片。",
+    "大合照長版保留去除約80.79秒黑畫面後的157.292秒版本。",
+    "口袋裡的大螢幕保留前版來源影像異常提示。"
+  ]
+}
